@@ -1,0 +1,27 @@
+# Local directories
+uploads/
+processed/
+faces/
+
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Build artifacts
+build/
+dist/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
